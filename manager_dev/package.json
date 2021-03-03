@@ -14,7 +14,7 @@
     "emmet": "git+https://github.com/cloud9ide/emmet-core.git#41973fcc70392864c7a469cf5dcd875b88b93d4a",
     "lodash.merge": "^4.6.2",
     "node-sass": "^4.12.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "sass-loader": "^7.1.0",
     "tiptap": "^1.23.3",
     "tiptap-extensions": "^1.24.3",
