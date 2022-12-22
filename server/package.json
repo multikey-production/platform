@@ -20,7 +20,7 @@
     "directory-tree": "^2.2.4",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "multer": "^1.4.2",
     "mysql2": "^1.7.0",
     "node-fetch": "^2.6.0",
